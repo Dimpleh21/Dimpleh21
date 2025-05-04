@@ -38,7 +38,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dimple-harjani/)
 - 🐙 [GitHub](https://github.com/Dimpleh21)
-- 🪄 [Portfolio](#) *(Coming soon… or maybe it's a secret 👀)*
+- 🪄 [Portfolio](https://dimples-2portfolio.onrender.com/)
 
 ---
 
