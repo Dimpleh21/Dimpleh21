@@ -1,38 +1,48 @@
-## Hi there 👋
-
- Dimple Harjani 
+#  Dimple Harjani — Architecting Chaos into Code
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20I'm%20Dimple!&fontSize=40)
 
-
-<div align="center">
-
-# 💫 Hi, I'm Dimple Harjani!
-
-🚀 Software Developer | 🌐 Full Stack Enthusiast | 🧠 AI Explorer  
-📍 Based in India | 🎓 NIT Hamirpur
+> ✨ Engineer. Developer. Builder of beautiful bugs (and then I fix them, mostly).  
+> 🧠 Living between console logs and commit messages.  
+> 🛠️ TypeScript wrangler • React artist • Next.js alchemist  
+> 🌐 Currently obsessed with clean UI, blockchain magic, and intelligent automation.
 
 ---
 
-## 🛠️ Tech Stack as Blocks
+## 🛸 Tech Playground
 
-| 💻 Languages | 🧰 Frameworks & Libraries | 🔧 Tools | ☁️ Cloud |
-|-------------|---------------------------|---------|----------|
-| ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2b%2b&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/VS--Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-black?style=for-the-badge&logo=vercel) |
+| Frontend        | Backend         | Database      | Tools & Other        |
+|----------------|-----------------|---------------|-----------------------|
+| React, Next.js | Node.js, Express| MongoDB       | Tailwind, Git, Vercel |
+| HTML/CSS/JS    | REST APIs       | Firebase      | Postman, Figma        |
+| TypeScript     | JWT/Auth        | Mongoose      | Cloudinary, GitHub Actions |
 
 ---
 
-## 📊 GitHub Stats
+## 🔥 Currently Crafting
+
+- 🪄 **Wishlink** — A real-time collaborative wishlist app because buying things solo is boring.
+- 🧠 **AI Financial Planner** — Helping you plan smarter, not harder.
+- 🕸️ **Arachnid Design System** — Spinning the web of reusable components at WHPL.
+
+---
+
+## 🌟 Stats & Vibes
 
 ![Dimple's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimpleh21&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimpleh21&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimpleh21&layout=compact&theme=gruvbox)
 
 ---
 
-## 🔗 Connect With Me
+## ☕ Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/dimple-harjani)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dimpleh21)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dimple-harjani/)
+- 🐙 [GitHub](https://github.com/Dimpleh21)
+- 🪄 [Portfolio](#) *(Coming soon… or maybe it's a secret 👀)*
 
-</div>
+---
+
+> “Code like poetry should be short and concise.”  
+> — Dimple, after deleting 500 lines of useless CSS.
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
