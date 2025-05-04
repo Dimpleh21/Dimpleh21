@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-
-🚀 Dimple Harjani — Architecting Chaos into Code
+ Dimple Harjani 
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20I'm%20Dimple!&fontSize=40)
 
