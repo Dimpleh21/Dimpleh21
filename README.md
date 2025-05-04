@@ -1,9 +1,7 @@
 ## Hi there 👋
 
 
-**Dimpleh21/Dimpleh21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:# 🚀 Dimple Harjani — Architecting Chaos into Code
+🚀 Dimple Harjani — Architecting Chaos into Code
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hey%20I'm%20Dimple!&fontSize=40)
 
