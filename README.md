@@ -19,14 +19,6 @@
 
 ---
 
-## 🔥 Currently Crafting
-
-- 🪄 **Wishlink** — A real-time collaborative wishlist app because buying things solo is boring.
-- 🧠 **AI Financial Planner** — Helping you plan smarter, not harder.
-- 🕸️ **Arachnid Design System** — Spinning the web of reusable components at WHPL.
-
----
-
 ## 🌟 Stats & Vibes
 
 ![Dimple's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimpleh21&show_icons=true&theme=radical)
