@@ -24,14 +24,6 @@ Here are some ideas to get you started:# 🚀 Dimple Harjani — Architecting Ch
 
 ---
 
-## 🔥 Currently Crafting
-
-- 🪄 **Wishlink** — A real-time collaborative wishlist app because buying things solo is boring.
-- 🧠 **AI Financial Planner** — Helping you plan smarter, not harder.
-- 🕸️ **Arachnid Design System** — Spinning the web of reusable components at WHPL.
-
----
-
 ## 🌟 Stats & Vibes
 
 ![Dimple's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dimpleh21&show_icons=true&theme=radical)
@@ -43,11 +35,11 @@ Here are some ideas to get you started:# 🚀 Dimple Harjani — Architecting Ch
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/dimple-harjani/)
 - 🐙 [GitHub](https://github.com/Dimpleh21)
-- 🪄 [Portfolio](#) *(Coming soon… or maybe it's a secret 👀)*
+- 🪄 [Portfolio](https://dimples-2portfolio.onrender.com/) 
 
 ---
 
 > “Code like poetry should be short and concise.”  
 > — Dimple, after deleting 500 lines of useless CSS.
 
-
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=100&section=footer)
