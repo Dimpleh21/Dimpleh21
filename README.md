@@ -10,11 +10,11 @@
 
 ## 🛸 Tech Playground
 
-| Frontend        | Backend         | Database      | Tools & Other        |
-|----------------|-----------------|---------------|-----------------------|
-| React, Next.js | Node.js, Express| MongoDB       | Tailwind, Git, Vercel |
-| HTML/CSS/JS    | REST APIs       | Firebase      | Postman, Figma        |
-| TypeScript     | JWT/Auth        | Mongoose      | Cloudinary, GitHub Actions |
+| Frontend        | Backend             | Database      | Tools & Other        |
+|----------------|----------------------|---------------|-----------------------|
+| React, Next.js | Node.js, Express, C++| MongoDB       | Tailwind, Git, Vercel |
+| HTML/CSS/JS    | REST APIs            | Firebase      | Postman, Figma        |
+| TypeScript     | JWT/Auth             | Mongoose      | Cloudinary, GitHub Actions |
 
 ---
 
